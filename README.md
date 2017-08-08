@@ -11,9 +11,9 @@ The following behaviors are expected and requested from each individual:
 
 - Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
 - Exercise consideration and respect in your speech and actions.
-- Attempt collaboration before conflict.
+- Attempt collaboration before a conflict.
 - Refrain from demeaning, discriminatory, or harassing behavior and speech.
-- Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+- Be mindful of your surroundings and your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 - Remember that our venues may be shared with members of the public or other groups; please be respectful to everyone.
 
 # 3. Unacceptable Behavior
@@ -26,7 +26,7 @@ The following behaviors are considered harassment and are unacceptable:
 - Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
 - Inappropriate photography or recording.
 - Inappropriate physical contact. You should have someone’s consent before touching them.
-- Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
+- Unwelcome sexual attention. This includes sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
 - Deliberate intimidation, stalking or following (online or in person).
 - Advocating for, or encouraging, any of the above behavior.
 
@@ -38,7 +38,7 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately and
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify us as soon as possible (in person or via e-mail: safety@digitalattitude.team).
 
 # 6. Scope
-We expect everyone who participates to our events and activities, either work-related or not, to abide by this Code of Conduct in all our venues–online or in-person–as well as in all one-on-one communications.
+We expect everyone who participates in our events and activities, either work-related or not, to abide by this Code of Conduct in all our venues–online or in-person–as well as in all one-on-one communications.
 
 # 7. License and attribution
 This Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike license.
